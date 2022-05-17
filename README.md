@@ -1,7 +1,7 @@
 # About me
 ```bash
 name: '[ daniellx42 ]'
-Language main: '[ Rust ]'
-Language second: '[ JavaScript, TypeScript, ]'
+Language "learning": '[ Rust ]'
+Languages: '[ JavaScript, TypeScript, ]'
 Stacks: '[ Node.js, React.js, MongoDB, HTML, CSS ]'
 ```
